@@ -1,0 +1,14 @@
+C:\Users\ishaan.vepakomma\Documents\Programmering_1\Slagsmål\Slagsmål\obj\Debug\net7.0\Slagsmål.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ishaan.vepakomma\Documents\Programmering_1\Slagsmål\Slagsmål\obj\Debug\net7.0\Slagsmål.AssemblyInfoInputs.cache
+C:\Users\ishaan.vepakomma\Documents\Programmering_1\Slagsmål\Slagsmål\obj\Debug\net7.0\Slagsmål.AssemblyInfo.cs
+C:\Users\ishaan.vepakomma\Documents\Programmering_1\Slagsmål\Slagsmål\obj\Debug\net7.0\Slagsmål.csproj.CoreCompileInputs.cache
+C:\Users\ishaan.vepakomma\Documents\Programmering_1\Slagsmål\Slagsmål\bin\Debug\net7.0\Slagsmål.exe
+C:\Users\ishaan.vepakomma\Documents\Programmering_1\Slagsmål\Slagsmål\bin\Debug\net7.0\Slagsmål.deps.json
+C:\Users\ishaan.vepakomma\Documents\Programmering_1\Slagsmål\Slagsmål\bin\Debug\net7.0\Slagsmål.runtimeconfig.json
+C:\Users\ishaan.vepakomma\Documents\Programmering_1\Slagsmål\Slagsmål\bin\Debug\net7.0\Slagsmål.dll
+C:\Users\ishaan.vepakomma\Documents\Programmering_1\Slagsmål\Slagsmål\bin\Debug\net7.0\Slagsmål.pdb
+C:\Users\ishaan.vepakomma\Documents\Programmering_1\Slagsmål\Slagsmål\obj\Debug\net7.0\Slagsmål.dll
+C:\Users\ishaan.vepakomma\Documents\Programmering_1\Slagsmål\Slagsmål\obj\Debug\net7.0\refint\Slagsmål.dll
+C:\Users\ishaan.vepakomma\Documents\Programmering_1\Slagsmål\Slagsmål\obj\Debug\net7.0\Slagsmål.pdb
+C:\Users\ishaan.vepakomma\Documents\Programmering_1\Slagsmål\Slagsmål\obj\Debug\net7.0\Slagsmål.genruntimeconfig.cache
+C:\Users\ishaan.vepakomma\Documents\Programmering_1\Slagsmål\Slagsmål\obj\Debug\net7.0\ref\Slagsmål.dll
