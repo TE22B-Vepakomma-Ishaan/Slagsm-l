@@ -2,6 +2,7 @@
 Console.WriteLine("Welcome to the ring. What's your name?");
 string name = Console.ReadLine();
 Console.WriteLine($"Alright {name} you'll be fighting Enemy, so get ready.");
+Console.ReadKey();
 int player_hp = 150;
 int enemy_hp = 150;
 
@@ -19,22 +20,30 @@ while (player_hp > 0 && enemy_hp > 0)
  player_hp -= enemy_dmg;
  enemy_hp -= player_dmg;
 
+ Console.WriteLine("-------------------------------------");
  
- Console.WriteLine($"{name} has done {player_dmg} to Enemy");
- Console.WriteLine($"Enemy has done {enemy_dmg} to {name}");
+ Console.WriteLine($"{name} has done {player_dmg} damage to Enemy");
+ Console.WriteLine($"Enemy has done {enemy_dmg} damage to {name}");
  
  Console.WriteLine("[Press any key to continue]");
  Console.ReadKey();
-
-
+ Console.WriteLine();
+ Console.WriteLine();
  
- Console.WriteLine($"{name}'s health: {player_hp}  Enemy health: {enemy_hp}");
+ 
+
+
+ if(player_hp > 0 && enemy_hp > 0)
+ {
+      Console.WriteLine($"{name}'s health: {player_hp}  Enemy health: {enemy_hp}");
+ }
+   
 }
 
  
  if(player_hp <= 0)
  {
-  Console.WriteLine($"Enemy has won this round!");
+    Console.WriteLine($"Enemy has won this round!");
  }
 
  else if(enemy_hp <= 0)
